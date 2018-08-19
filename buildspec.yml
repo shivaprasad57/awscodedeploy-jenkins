@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @shivaprasad57 Sign out
-0
-0 91 shivaprasad57/aws-nodejs-sample-codebuild
-forked from backspace-academy/aws-nodejs-sample-codebuild
- Code  Pull requests 0  Projects 0  Wiki  Insights  Settings
-aws-nodejs-sample-codebuild/buildspec.yml
-25a1680  on Sep 12, 2017
-@backspace-academy backspace-academy .
-     
-33 lines (31 sloc)  1000 Bytes
 # Do not change version. This is the version of aws buildspec, not the version of your buldspec file.
 version: 0.2
 
@@ -48,16 +30,3 @@ artifacts:
     - package.json
     - node_modules/async/*
     - node_modules/lodash/*
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
