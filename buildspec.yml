@@ -28,5 +28,10 @@ artifacts:
     - app.js
     - index.html
     - package.json
+    - appspec.yml
+    - test.js
+    - cron.yaml
+    - scripts/npm-install.sh
+    - scripts/npm-start.sh
     - node_modules/async/*
     - node_modules/lodash/*
